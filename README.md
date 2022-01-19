@@ -7,6 +7,6 @@ here we learn about branching, stashing, reverting, rebase and merging.
     $ git branch my_branch
 ```
 2- to switch to that branch, we write:
-``` bash
+``` python
     $ git checkout my_branch
 ```
